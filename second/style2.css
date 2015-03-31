@@ -1,0 +1,38 @@
+body {
+	background: black;
+	margin: 0;
+}
+.one {
+	width: 33%;
+	height: 100%;
+	background: #4A90E2;
+	float: left;
+	clear:none;
+}
+.two {
+	width: 33%;
+	height: 100%;
+	background: #50E3C2;
+	float: left;
+	clear: none;
+}
+.three {
+	width: 33%;
+	height: 75%;
+	background: #B8E986;
+	float: left;
+}
+.imgHolder {
+	width: 33%;
+	height: 25%;
+	background: #D0021B;
+	float:left;
+}
+.text {
+	margin: 20%;
+	color: #ffffff;
+	text-align: center;
+	font-size: 25px;
+	text-shadow: 5px 5px 5px gray;
+	font-family: sans-serif;
+}
