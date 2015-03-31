@@ -1,0 +1,17 @@
+body {
+	background-color: #777777;
+}
+header {
+	height: 75px;
+	background-color: #000000;
+}
+.content {
+	margin:0px 50px;
+	height: 75%;
+	background: radial-gradient(#ffffff, #ff88aa);
+}
+footer {
+	background: #000000;
+	height:25%;
+	margin: 0px 50px;
+}
